@@ -222,12 +222,7 @@ button:hover{
 
                 </form>
 
-                <p class="meta" style="margin-top:14px;">
-                    Seeded SuperAdmin:
-                    <code>superadmin@example.com</code> /
-                    <code>password</code>
-                </p>
-
+                
             </div>
         </div>
     </div>
