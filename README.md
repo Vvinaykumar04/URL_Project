@@ -22,11 +22,11 @@ Install dependencies and generate the app key:
 
 
 Run migrations for the main database:
-php artisan migrate
+- php artisan migrate
 
 
 Seed the default super admin:
-php artisan db:seed
+- php artisan db:seed
 
 
 
