@@ -29,8 +29,9 @@ Seed the default super admin:
 php artisan db:seed
 
 
-I used 2 test method
+
 ## Testing
+I used 2 test method
 
 Run the unit test:
 php artisan test tests/Unit/UserTest.php
