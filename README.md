@@ -15,9 +15,9 @@ Configure environment files:
 
 
 Install dependencies and generate the app key:
-composer install
-npm install
-php artisan key:generate
+- composer install
+- npm install
+- php artisan key:generate
 
 
 
